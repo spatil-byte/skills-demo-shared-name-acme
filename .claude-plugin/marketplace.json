@@ -1,0 +1,11 @@
+{
+  "name": "acme-tools",
+  "owner": { "name": "Acme Corp" },
+  "plugins": [
+    {
+      "name": "deploy-helper",
+      "source": "./plugins/deploy-helper",
+      "description": "Deployment helper published by Acme Corp"
+    }
+  ]
+}

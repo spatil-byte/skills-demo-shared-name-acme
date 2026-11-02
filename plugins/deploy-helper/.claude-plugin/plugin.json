@@ -1,0 +1,6 @@
+{
+  "name": "deploy-helper",
+  "version": "1.0.0",
+  "description": "Deployment helper published by Acme Corp",
+  "author": { "name": "Acme Corp" }
+}
