@@ -6,6 +6,16 @@
       "name": "deploy-helper",
       "source": "./plugins/deploy-helper",
       "description": "Deployment helper published by Acme Corp"
+    },
+    {
+      "name": "deploy-helper-community",
+      "source": "./community/deploy-helper",
+      "description": "Community edition of deploy-helper, with no declared version"
+    },
+    {
+      "name": "release-notes-community",
+      "source": "./community/release-notes",
+      "description": "Community release-notes writer, with no declared version"
     }
   ]
 }

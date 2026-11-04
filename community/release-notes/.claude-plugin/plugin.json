@@ -1,0 +1,5 @@
+{
+  "name": "release-notes",
+  "description": "Community release-notes writer",
+  "author": { "name": "Acme Community" }
+}
