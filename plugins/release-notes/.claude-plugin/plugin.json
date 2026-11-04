@@ -1,0 +1,6 @@
+{
+  "name": "release-notes",
+  "version": "5.0.0",
+  "description": "Release-notes writer published by Acme Corp",
+  "author": { "name": "Acme Corp" }
+}

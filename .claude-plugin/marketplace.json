@@ -16,6 +16,11 @@
       "name": "release-notes-community",
       "source": "./community/release-notes",
       "description": "Community release-notes writer, with no declared version"
+    },
+    {
+      "name": "release-notes",
+      "source": "./plugins/release-notes",
+      "description": "Release-notes writer published by Acme Corp"
     }
   ]
 }
