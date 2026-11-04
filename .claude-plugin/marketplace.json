@@ -113,6 +113,11 @@
       "name": "leak-ver-vendor-b",
       "source": "./vendor-b/leak-ver",
       "description": "leak-ver from the vendor-b team (2.0.0)"
+    },
+    {
+      "name": "triage-vendor-b",
+      "source": "./vendor-b/triage",
+      "description": "triage from the vendor-b team (2.0.0)"
     }
   ]
 }
