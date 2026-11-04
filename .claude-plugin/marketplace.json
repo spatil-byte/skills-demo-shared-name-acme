@@ -103,6 +103,16 @@
       "name": "archiver",
       "source": "./plugins/archiver",
       "description": "archiver from the plugins team (2.0.0)"
+    },
+    {
+      "name": "leak-ver",
+      "source": "./plugins/leak-ver",
+      "description": "leak-ver from the plugins team (1.0.0)"
+    },
+    {
+      "name": "leak-ver-vendor-b",
+      "source": "./vendor-b/leak-ver",
+      "description": "leak-ver from the vendor-b team (2.0.0)"
     }
   ]
 }
