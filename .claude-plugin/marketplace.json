@@ -1,6 +1,8 @@
 {
   "name": "acme-tools",
-  "owner": { "name": "Acme Corp" },
+  "owner": {
+    "name": "Acme Corp"
+  },
   "plugins": [
     {
       "name": "deploy-helper",
@@ -21,6 +23,46 @@
       "name": "release-notes",
       "source": "./plugins/release-notes",
       "description": "Release-notes writer published by Acme Corp"
+    },
+    {
+      "name": "ver-wins",
+      "source": "./plugins/ver-wins",
+      "description": "ver-wins from the plugins team (1.0.0)"
+    },
+    {
+      "name": "ver-lower",
+      "source": "./plugins/ver-lower",
+      "description": "ver-lower from the plugins team (3.0.0)"
+    },
+    {
+      "name": "ver-equal",
+      "source": "./plugins/ver-equal",
+      "description": "ver-equal from the plugins team (1.0.0)"
+    },
+    {
+      "name": "semver-first",
+      "source": "./plugins/semver-first",
+      "description": "semver-first from the plugins team (1.0.0)"
+    },
+    {
+      "name": "triage",
+      "source": "./plugins/triage",
+      "description": "triage from the plugins team (1.0.0)"
+    },
+    {
+      "name": "scanner",
+      "source": "./plugins/scanner",
+      "description": "scanner from the plugins team (1.0.0)"
+    },
+    {
+      "name": "formatter",
+      "source": "./plugins/formatter",
+      "description": "formatter from the plugins team (1.0.0)"
+    },
+    {
+      "name": "archiver-vendor-b",
+      "source": "./vendor-b/archiver",
+      "description": "archiver from the vendor-b team (5.0.0)"
     }
   ]
 }
