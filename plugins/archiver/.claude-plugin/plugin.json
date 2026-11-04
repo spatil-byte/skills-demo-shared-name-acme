@@ -1,0 +1,8 @@
+{
+  "name": "archiver",
+  "description": "archiver from the plugins team",
+  "version": "2.0.0",
+  "author": {
+    "name": "Plugins Team"
+  }
+}

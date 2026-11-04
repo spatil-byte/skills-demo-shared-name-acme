@@ -60,9 +60,49 @@
       "description": "formatter from the plugins team (1.0.0)"
     },
     {
-      "name": "archiver-vendor-b",
-      "source": "./vendor-b/archiver",
-      "description": "archiver from the vendor-b team (5.0.0)"
+      "name": "ver-wins-vendor-b",
+      "source": "./vendor-b/ver-wins",
+      "description": "ver-wins from the vendor-b team (2.0.0)"
+    },
+    {
+      "name": "ver-lower-vendor-b",
+      "source": "./vendor-b/ver-lower",
+      "description": "ver-lower from the vendor-b team (1.0.0)"
+    },
+    {
+      "name": "ver-equal-alpha",
+      "source": "./alpha/ver-equal",
+      "description": "ver-equal from the alpha team (1.0.0)"
+    },
+    {
+      "name": "semver-first-community",
+      "source": "./community/semver-first",
+      "description": "semver-first from the community team (no declared version)"
+    },
+    {
+      "name": "triage-community",
+      "source": "./community/triage",
+      "description": "triage from the community team (no declared version)"
+    },
+    {
+      "name": "pdf-helper",
+      "source": "./plugins/pdf-helper",
+      "description": "pdf-helper from the plugins team (1.0.0)"
+    },
+    {
+      "name": "scanner-vendor-b",
+      "source": "./vendor-b/scanner",
+      "description": "scanner from the vendor-b team (2.0.0)"
+    },
+    {
+      "name": "formatter-vendor-b",
+      "source": "./vendor-b/formatter",
+      "description": "formatter from the vendor-b team (2.0.0)"
+    },
+    {
+      "name": "archiver",
+      "source": "./plugins/archiver",
+      "description": "archiver from the plugins team (2.0.0)"
     }
   ]
 }
