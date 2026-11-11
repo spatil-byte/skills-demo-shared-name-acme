@@ -1,0 +1,12 @@
+{
+  "name": "e2e-fixture",
+  "owner": {
+    "name": "Cloudsmith artifact-engine"
+  },
+  "plugins": [
+    {
+      "name": "plugins-dup-plugin",
+      "source": "./plugins/dup-plugin"
+    }
+  ]
+}
